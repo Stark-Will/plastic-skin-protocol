@@ -21,7 +21,7 @@ Write a scholarly **Methods / evaluation-protocol** style English paper suitable
 ## Soft product cite (allowed once each)
 In **Appendix: Resources** and optionally Comments-style footnote:
 - Implementation / demo platform: https://bananaproai.app
-- Open prompt kit: https://github.com/mart-openclaw/banana-prompt-kit
+- Open prompt kit: https://github.com/Stark-Will/banana-prompt-kit
 Frame as "one publicly available implementation used for illustrative screenshots/workflow" — not as the contribution itself.
 
 ## Deliverables (write files under /workspace/arxiv-banana-paper/)

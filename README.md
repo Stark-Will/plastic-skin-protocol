@@ -10,15 +10,15 @@ This repository hosts the LaTeX source and PDF of a methods/protocol paper. It d
 
 | Version | What it is | Paths / assets |
 |---------|------------|----------------|
-| **v0.1** | Protocol-only note (taxonomy + human protocol; **no** quantitative experiment) | Root `main.tex` / `main.pdf`; Release [v0.1.0](https://github.com/mart-openclaw/plastic-skin-protocol/releases/tag/v0.1.0); Zenodo [10.5281/zenodo.22929445](https://doi.org/10.5281/zenodo.22929445) |
-| **v0.2** | Protocol version 2 + **pilot dual-pass** experiment (headless VLM rater; real on-disk numbers only; not a generator leaderboard; VLM ≠ human) | Tree `v02/` (when present); Release [v0.2](https://github.com/mart-openclaw/plastic-skin-protocol/releases/tag/v0.2); Zenodo v2 [10.5281/zenodo.22936528](https://doi.org/10.5281/zenodo.22936528) |
+| **v0.1** | Protocol-only note (taxonomy + human protocol; **no** quantitative experiment) | Root `main.tex` / `main.pdf`; Release [v0.1.0](https://github.com/Stark-Will/plastic-skin-protocol/releases/tag/v0.1.0); Zenodo [10.5281/zenodo.22929445](https://doi.org/10.5281/zenodo.22929445) |
+| **v0.2** | Protocol version 2 + **pilot dual-pass** experiment (headless VLM rater; real on-disk numbers only; not a generator leaderboard; VLM ≠ human) | Tree `v02/` (when present); Release [v0.2](https://github.com/Stark-Will/plastic-skin-protocol/releases/tag/v0.2); Zenodo v2 [10.5281/zenodo.22936528](https://doi.org/10.5281/zenodo.22936528) |
 
 v0.1 root files are retained. Soft product cite only: https://bananaproai.app (Resources / Appendix).
 
 ## Downloads (v0.2)
 
-- PDF: https://github.com/mart-openclaw/plastic-skin-protocol/releases/download/v0.2/plastic-skin-protocol-v02.pdf
-- Artifacts tarball: https://github.com/mart-openclaw/plastic-skin-protocol/releases/download/v0.2/plastic-skin-v02-artifacts.tar.gz
+- PDF: https://github.com/Stark-Will/plastic-skin-protocol/releases/download/v0.2/plastic-skin-protocol-v02.pdf
+- Artifacts tarball: https://github.com/Stark-Will/plastic-skin-protocol/releases/download/v0.2/plastic-skin-v02-artifacts.tar.gz
 - Zenodo record: https://zenodo.org/records/22936528
 
 ## v0.2 tree (in-repo when present)
